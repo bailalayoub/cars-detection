@@ -1,4 +1,4 @@
-# Heart Shape Curve
+# Curve
 
 This repository contains a Python script to generate and display a curve using `numpy` and `matplotlib`.
 
